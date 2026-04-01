@@ -36,7 +36,10 @@ I am a data-focused Computer Science student with hands-on experience in analyzi
 ---
 
 ## 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A5HxD&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A5HxD&layout=compact&theme=tokyonight)
 
 ---
 
