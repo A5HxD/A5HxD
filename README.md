@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Ayush  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Problem+Solver;Data+%7C+Backend+%7C+Systems;Always+Learning+New+Things)
 
 🎓 Computer Science Undergraduate
 💡 Problem Solver | Data • Backend • Systems
@@ -30,9 +29,6 @@ I’m particularly interested in roles where I can combine analytical thinking w
 **Tools:** Git, VS Code
 
 ---
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/A5HxD/A5HxD/blob/output/github-contribution-grid-snake.svg)
 
 ## 📂 Projects
 
