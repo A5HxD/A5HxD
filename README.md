@@ -1,39 +1,74 @@
-# 👋 Hi, I'm Ayush
+# 👋 Hi, I'm Ayush  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Problem+Solver;Data+%7C+Backend+%7C+Systems;Always+Learning+New+Things)
 
-🎓 Computer Science Undergraduate  
-📊 Data Analyst | Python, SQL, Excel | Power BI, Tableau  
+🎓 Computer Science Undergraduate
+💡 Problem Solver | Data • Backend • Systems
 
 ---
 
 ## 🚀 About Me
-I am a data-focused Computer Science student with hands-on experience in analyzing datasets, building dashboards, and extracting actionable insights. I enjoy solving real-world problems using data and continuously improving my analytical skills.
+
+I’m a Computer Science student who enjoys building solutions across different domains—whether it's analyzing data, designing systems, or working with databases.
+
+My work sits at the intersection of:
+
+* 📊 Data Analysis
+* 🧩 Problem Solving
+* ⚙️ Backend & Database Systems
+
+I’m particularly interested in roles where I can combine analytical thinking with technical implementation.
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** Python, SQL  
-- **Data Analysis:** Pandas, NumPy, Excel  
-- **Visualization:** Power BI, Tableau  
-- **Database:** MySQL  
-- **Tools:** Git, VS Code  
+
+**Languages:** Python, SQL
+**Core Areas:** Data Analysis, Backend Development, Problem Solving
+**Libraries & Tools:** Pandas, NumPy, Excel
+**Visualization:** Power BI, Tableau
+**Database:** MySQL
+**Tools:** Git, VS Code
 
 ---
 
-## 📊 Featured Projects
+## 📂 Projects
 
-### 🔹 Sales Data Analysis Dashboard  
-- Built an interactive Power BI dashboard to analyze sales trends and KPIs  
-- Identified key business insights from Global Superstore dataset  
-👉 https://github.com/A5HxD/sales-data-analysis-dashboard  
+### 🔹 Sales Data Analysis Dashboard
+
+* Built an interactive dashboard to analyze trends and KPIs
+* Transformed raw data into actionable insights
+* Focused on decision-making and business impact
+
+🔗 https://github.com/A5HxD/sales-data-analysis-dashboard
 
 ---
 
-### 🔹 Employee Management System  
-- Developed a Python + MySQL system for managing employee records and payroll  
-- Implemented CRUD operations and database integration  
-👉 https://github.com/A5HxD/employee-management-system  
+### 🔹 Employee Management System
+
+* Designed a backend system using Python + MySQL
+* Implemented CRUD operations and database handling
+* Focused on system structure and data integrity
+
+🔗 https://github.com/A5HxD/employee-management-system
+
+---
+
+## 🧠 What I’m Exploring
+
+* Data-driven system design
+* Backend development with Python
+* Real-world problem solving using data
+
+---
+
+## 📊 GitHub Stats
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=A5HxD&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=A5HxD&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/ayush55b-prasad/
+
+🔗 LinkedIn: https://www.linkedin.com/in/ayush55b-prasad/
