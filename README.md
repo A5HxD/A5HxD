@@ -21,10 +21,9 @@ I’m particularly interested in roles where I can combine analytical thinking w
 
 ## 🛠️ Skills
 
-* **Languages:** Python, SQL
-* **Core Areas:** Data Analysis, Backend Development, Problem Solving
+* **Languages:** Python, SQL, C, Java
 * **Libraries & Tools:** Pandas, NumPy, Excel
-* **Visualization:** Power BI, Tableau
+* **Visualization:** Power BI, Tableau, 
 * **Database:** MySQL
 * **Tools:** Git, VS Code
 
