@@ -21,34 +21,12 @@ I’m particularly interested in roles where I can combine analytical thinking w
 
 ## 🛠️ Skills
 
-**Languages:** Python, SQL
-**Core Areas:** Data Analysis, Backend Development, Problem Solving
-**Libraries & Tools:** Pandas, NumPy, Excel
-**Visualization:** Power BI, Tableau
-**Database:** MySQL
-**Tools:** Git, VS Code
-
----
-
-## 📂 Projects
-
-### 🔹 Sales Data Analysis Dashboard
-
-* Built an interactive dashboard to analyze trends and KPIs
-* Transformed raw data into actionable insights
-* Focused on decision-making and business impact
-
-🔗 https://github.com/A5HxD/sales-data-analysis-dashboard
-
----
-
-### 🔹 Employee Management System
-
-* Designed a backend system using Python + MySQL
-* Implemented CRUD operations and database handling
-* Focused on system structure and data integrity
-
-🔗 https://github.com/A5HxD/employee-management-system
+* **Languages:** Python, SQL
+* **Core Areas:** Data Analysis, Backend Development, Problem Solving
+* **Libraries & Tools:** Pandas, NumPy, Excel
+* **Visualization:** Power BI, Tableau
+* **Database:** MySQL
+* **Tools:** Git, VS Code
 
 ---
 
