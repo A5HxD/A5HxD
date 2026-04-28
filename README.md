@@ -31,6 +31,9 @@ I’m particularly interested in roles where I can combine analytical thinking w
 
 ---
 
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/A5HxD/A5HxD/blob/output/github-contribution-grid-snake.svg)
+
 ## 📂 Projects
 
 ### 🔹 Sales Data Analysis Dashboard
