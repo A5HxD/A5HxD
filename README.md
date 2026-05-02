@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ayush  
 
 🎓 Computer Science Undergraduate
-💡 Problem Solver | Data • Backend • Systems
+💡 Problem Solver
 
 ---
 
@@ -13,7 +13,7 @@ My work sits at the intersection of:
 
 * 📊 Data Analysis
 * 🧩 Problem Solving
-* ⚙️ Backend & Database Systems
+* ⚙️ Machine Learning
 
 I’m particularly interested in roles where I can combine analytical thinking with technical implementation.
 
