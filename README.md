@@ -11,11 +11,9 @@ I’m a Computer Science student who enjoys building solutions across different 
 
 My work sits at the intersection of:
 
-* 📊 Data Analysis
+* 📊 Data Science
 * 🧩 Problem Solving
 * ⚙️ Machine Learning
-
-I’m particularly interested in roles where I can combine analytical thinking with technical implementation.
 
 ---
 
