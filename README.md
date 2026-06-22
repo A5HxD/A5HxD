@@ -35,16 +35,7 @@ My work sits at the intersection of:
 
 ---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/A5HxD/A5HxD/blob/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/A5HxD/A5HxD/blob/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+![Snake animation](https://github.com/A5HxD/A5HxD/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=A5HxD&theme=tokyonight)
