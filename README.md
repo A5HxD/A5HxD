@@ -35,8 +35,16 @@ My work sits at the intersection of:
 
 ---
 
-## 📊 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=A5HxD&show_icons=true&theme=tokyonight)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/A5HxD/A5HxD/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/A5HxD/A5HxD/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=A5HxD&theme=tokyonight)
