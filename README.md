@@ -53,4 +53,4 @@ My work sits at the intersection of:
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/ayush55b-prasad/
+🔗 LinkedIn: https://www.linkedin.com/in/ayushprasad-
